@@ -1,3 +1,3 @@
 # Propagator
 
-A file delivery system.
+A data transfer system.
