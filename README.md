@@ -1,2 +1,3 @@
 # Propagator
-Document delivery system
+
+A file delivery system.
