@@ -4,4 +4,4 @@ A prototype implementation of a data transfer system working as a proof of conce
 
 ## Motivation
 
-Innovate the data exchange ecosystem.
+To innovate the data exchange ecosystem and support APIs' standardization.
