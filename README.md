@@ -4,4 +4,4 @@ A prototype implementation of a data transfer system working as a proof of conce
 
 ## Rationale
 
-Enable access to third-party web APIs using a loosely coupled architecture, as the MTA-to-MTA SMTP transmission does. This architecture will allow innovation in the data exchange space.
+As businesses extend the usage of their APIs, it is becoming increasingly clear that a microservices security architecture needs to expand beyond traditional enterprise boundaries. This leads us to implement the [Identity Propagation and Assertions](https://github.com/umalabs/identity-propagation-and-assertions) architecture to enable access to third-party web APIs using a loosely coupled microservices that allows transferring artbitrary data accross security domain boundaries.
