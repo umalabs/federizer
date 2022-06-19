@@ -1,6 +1,6 @@
 # Propagator
 
-A prototype implementation of a data transfer system working as a proof of concept of the [Identity Propagation and Assertions](https://github.com/umalabs/identity-propagation-and-assertions) architecture. Propagator is a gRPC API-to-API data transfer system that resembles how the MTA-to-MTA SMTP transmission works. You can send a message, e.g., an order, from the sender's API to an arbitrary recipient's API. And vice-versa, you can receive any message from an arbitrary sender's API.
+A prototype implementation of a data transfer system working as a proof of concept of the [Identity Propagation and Assertions](https://github.com/umalabs/identity-propagation-and-assertions) architecture. Propagator is a gRPC API-to-API data transfer system that resembles how the MTA-to-MTA SMTP transmission works. You can send any message, e.g., an order, from the sender's API to an arbitrary recipient's API; vice-versa, you can receive a message from any sender's API.
 
 ## Features
 
