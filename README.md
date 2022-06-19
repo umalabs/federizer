@@ -6,7 +6,7 @@ Propagator, an API-to-API Communication Framework, is a prototype implementation
 
 1. mTLS/JWT provides the client and user authenticity.
 2. TLS provides confidentiality and integrity of data in transit.
-3. The client or server can push and pull data.
+3. Both the API consumer and the API producer can push and pull data.
 
 ## Repositories
 
