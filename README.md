@@ -1,14 +1,12 @@
 # Propagator
 
-A prototype implementation of a data transfer system working as a proof of concept of the [Identity Propagation and Assertions](https://github.com/umalabs/identity-propagation-and-assertions) architecture.
-
-## Rationale
-
-As businesses extend the usage of their APIs, it is becoming increasingly clear that a microservices security architecture needs to expand beyond traditional enterprise boundaries. This finding leads us to implement the [Identity Propagation and Assertions](https://github.com/umalabs/identity-propagation-and-assertions) architecture to enable access to third-party web APIs using loosely coupled microservices that allow transferring arbitrary data across security domain boundaries.
+A prototype implementation of a data transfer system working as a proof of concept of the [Identity Propagation and Assertions](https://github.com/umalabs/identity-propagation-and-assertions) architecture. Propagator is a gRPC API-to-API data transfer system that resembles how the MTA-to-MTA SMTP transmission works. You can send a message, e.g., an order, from the sender's API to an arbitrary recipient's API. And vice-versa, you can receive any message from an arbitrary sender's API.
 
 ## Features
 
-Two microservices hosted on different domains that can replace the MTA-to-MTA SMTP transmission process.
+1. mTLS/JWT provides the client and user authenticity.
+2. TLS provides confidentiality and integrity of data in transit.
+3. The client or server can push and pull data.
 
 ## Usage Example
 
