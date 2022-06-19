@@ -8,6 +8,7 @@ A prototype implementation of a data transfer system working as a proof of conce
 2. TLS provides confidentiality and integrity of data in transit.
 3. The client or server can push and pull data.
 
-## Usage Example
+## Repositories
 
-TBD
+* API-to-API Security Token Service [https://github.com/umalabs/api-to-api-sts](https://github.com/umalabs/api-to-api-sts)  
+* API-to-API Security Token Service Interceptor [https://github.com/umalabs/api-to-api-sts-interceptor](https://github.com/umalabs/api-to-api-sts-interceptor)
