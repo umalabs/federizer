@@ -1,24 +1,24 @@
 participant "Client" as Client
-participant "API Consumer" as Consumer
-participant "API Consumer's STS" as Consumer_STS
+participant "Egress API Gateway" as Egress
+participant "Egress STS" as Egress_STS
 
 materialdesignicons f590 Internet
 
-participant "API Producer" as Producer
-participant "API Producer's STS" as Producer_STS
+participant "Ingress API Gateway" as Ingress
+participant "Ingress STS" as Ingress_STS
 participant "Resource Server" as RS
 
 bottomparticipants
 
-note over Client,Consumer_STS:API Consumer's Domain
-note over Producer,RS:API Producer's Domain
-Client->Consumer:1.
-Consumer->Consumer_STS:2.
-Consumer<-Consumer_STS:3.
-Consumer->Producer:4.
-Producer->Producer_STS:5.
-Producer<-Producer_STS:6.
-Producer->RS:7.
-Producer<-RS:8.
-Consumer<-Producer:9.
-Client<-Consumer:10.
+note over Client,Egress_STS:API Consumer's Domain
+note over Ingress,RS:API Producer's Domain
+Client->Egress:1.
+Egress->Egress_STS:2.
+Egress<-Egress_STS:3.
+Egress->Ingress:4.
+Ingress->Ingress_STS:5.
+Ingress<-Ingress_STS:6.
+Ingress->RS:7.
+Ingress<-RS:8.
+Egress<-Ingress:9.
+Client<-Egress:10.
