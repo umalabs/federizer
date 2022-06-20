@@ -1,0 +1,1139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="735"
+   height="540"
+   id="svg3268"
+   sodipodi:docname="Propagator.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata3272">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     id="namedview3270"
+     showgrid="true"
+     inkscape:zoom="2.3935805"
+     inkscape:cx="344.00397"
+     inkscape:cy="459.06752"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3268">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3817" />
+  </sodipodi:namedview>
+  <desc
+     id="desc2878">participant%20%22Client%22%20as%20Client%0Aparticipant%20%22API%20Consumer%22%20as%20Consumer%0Aparticipant%20%22API%20Consumer's%20STS%22%20as%20Consumer_STS%0A%0Amaterialdesignicons%20f590%20Internet%0A%0Aparticipant%20%22API%20Producer%22%20as%20Producer%0Aparticipant%20%22API%20Producer's%20STS%22%20as%20Producer_STS%0Aparticipant%20%22Resource%20Server%22%20as%20RS%0A%0Abottomparticipants%0A%0Anote%20over%20Client%2CConsumer_STS%3AAPI%20Consumer's%20Domain%0Anote%20over%20Producer%2CRS%3AAPI%20Producer's%20Domain%0AClient-%3EConsumer%3A1.%0AConsumer-%3EConsumer_STS%3A2.%0AConsumer%3C-Consumer_STS%3A3.%0AConsumer-%3EProducer%3A4.%0AProducer-%3EProducer_STS%3A5.%0AProducer%3C-Producer_STS%3A6.%0AProducer-%3ERS%3A7.%0AProducer%3C-RS%3A8.%0AConsumer%3C-Producer%3A9.%0AClient%3C-Consumer%3A10.%0A</desc>
+  <defs
+     id="defs2880" />
+  <g
+     id="g3266">
+    <g
+       id="g2882" />
+    <g
+       id="g2884" />
+    <g
+       id="g2886" />
+    <g
+       id="g2888" />
+    <g
+       id="g2890" />
+    <g
+       id="g2892" />
+    <g
+       id="g2894" />
+    <g
+       id="g2896" />
+    <g
+       id="g2898" />
+    <g
+       id="g2900" />
+    <g
+       id="g2902" />
+    <g
+       id="g2904" />
+    <g
+       id="g2906" />
+    <g
+       id="g2908" />
+    <g
+       id="g2910" />
+    <g
+       id="g2912" />
+    <g
+       id="g2914" />
+    <g
+       id="g2916" />
+    <g
+       id="g2918" />
+    <g
+       id="g2922">
+      <rect
+         fill="white"
+         stroke="none"
+         x="0"
+         y="0"
+         width="735"
+         height="540"
+         id="rect2920" />
+    </g>
+    <g
+       id="g2924" />
+    <g
+       id="g2940">
+      <path
+         fill="none"
+         stroke="black"
+         paint-order="fill stroke markers"
+         d=" M 33.37474404576514 45.35617642 L 33.37474404576514 493.19205765999993"
+         stroke-miterlimit="10"
+         stroke-width="0.9424155750000001"
+         stroke-dasharray="8.699220692307692,3.7696623000000002"
+         id="path2926" />
+      <path
+         fill="none"
+         stroke="black"
+         paint-order="fill stroke markers"
+         d=" M 122.03256591567677 45.35617642 L 122.03256591567677 493.19205765999993"
+         stroke-miterlimit="10"
+         stroke-width="0.9424155750000001"
+         stroke-dasharray="8.699220692307692,3.7696623000000002"
+         id="path2928" />
+      <path
+         fill="none"
+         stroke="black"
+         paint-order="fill stroke markers"
+         d=" M 248.57372003809087 45.35617642 L 248.57372003809087 493.19205765999993"
+         stroke-miterlimit="10"
+         stroke-width="0.9424155750000001"
+         stroke-dasharray="8.699220692307692,3.7696623000000002"
+         id="path2930" />
+      <path
+         d="M 346.81962,10 V 530"
+         stroke-miterlimit="10"
+         id="path2932"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-width:0.9424156;stroke-miterlimit:10;stroke-dasharray:8.69922069, 3.7696623;paint-order:fill stroke markers"
+         sodipodi:nodetypes="cc" />
+      <path
+         fill="none"
+         stroke="black"
+         paint-order="fill stroke markers"
+         d=" M 425.51552823579794 45.35617642 L 425.51552823579794 493.19205765999993"
+         stroke-miterlimit="10"
+         stroke-width="0.9424155750000001"
+         stroke-dasharray="8.699220692307692,3.7696623000000002"
+         id="path2934" />
+      <path
+         fill="none"
+         stroke="black"
+         paint-order="fill stroke markers"
+         d=" M 544.9066846470304 45.35617642 L 544.9066846470304 493.19205765999993"
+         stroke-miterlimit="10"
+         stroke-width="0.9424155750000001"
+         stroke-dasharray="8.699220692307692,3.7696623000000002"
+         id="path2936" />
+      <path
+         fill="none"
+         stroke="black"
+         paint-order="fill stroke markers"
+         d=" M 674.1811761717881 45.35617642 L 674.1811761717881 493.19205765999993"
+         stroke-miterlimit="10"
+         stroke-width="0.9424155750000001"
+         stroke-dasharray="8.699220692307692,3.7696623000000002"
+         id="path2938" />
+    </g>
+    <g
+       id="g3086">
+      <path
+         fill="none"
+         stroke="none"
+         id="path2942" />
+      <g
+         id="g2946">
+        <path
+           fill="white"
+           stroke="black"
+           paint-order="fill stroke markers"
+           d=" M 5.654493450000004 14.935001658999996 L 61.09499464153028 14.935001658999996 L 61.09499464153028 45.35617642 L 5.654493450000004 45.35617642 L 5.654493450000004 14.935001658999996 Z"
+           stroke-miterlimit="10"
+           stroke-width="1.8094379040000002"
+           stroke-dasharray=""
+           id="path2944" />
+      </g>
+      <g
+         id="g2950">
+        <text
+           fill="black"
+           stroke="none"
+           font-family="sans-serif"
+           font-size="8pt"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="normal"
+           x="17.924744236500004"
+           y="34.04718952"
+           text-anchor="start"
+           dominant-baseline="alphabetic"
+           xml:space="preserve"
+           id="text2948">Client</text>
+      </g>
+      <path
+         fill="none"
+         stroke="none"
+         id="path2952" />
+      <g
+         id="g2956">
+        <path
+           fill="white"
+           stroke="black"
+           paint-order="fill stroke markers"
+           d=" M 72.40398154153029 14.935001658999996 L 171.66115028982324 14.935001658999996 L 171.66115028982324 45.35617642 L 72.40398154153029 45.35617642 L 72.40398154153029 14.935001658999996 Z"
+           stroke-miterlimit="10"
+           stroke-width="1.8094379040000002"
+           stroke-dasharray=""
+           id="path2954" />
+      </g>
+      <g
+         id="g2960">
+        <text
+           fill="black"
+           stroke="none"
+           font-family="sans-serif"
+           font-size="8pt"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="normal"
+           x="84.67423232803029"
+           y="34.04718952"
+           text-anchor="start"
+           dominant-baseline="alphabetic"
+           xml:space="preserve"
+           id="text2958">API Consumer</text>
+      </g>
+      <path
+         fill="none"
+         stroke="none"
+         id="path2962" />
+      <g
+         id="g2966">
+        <path
+           fill="white"
+           stroke="black"
+           paint-order="fill stroke markers"
+           d=" M 182.97013718982328 14.935001658999996 L 314.17730288635846 14.935001658999996 L 314.17730288635846 45.35617642 L 182.97013718982328 45.35617642 L 182.97013718982328 14.935001658999996 Z"
+           stroke-miterlimit="10"
+           stroke-width="1.8094379040000002"
+           stroke-dasharray=""
+           id="path2964" />
+      </g>
+      <g
+         id="g2970">
+        <text
+           fill="black"
+           stroke="none"
+           font-family="sans-serif"
+           font-size="8pt"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="normal"
+           x="195.2403879763233"
+           y="34.04718952"
+           text-anchor="start"
+           dominant-baseline="alphabetic"
+           xml:space="preserve"
+           id="text2968">API Consumer's STS</text>
+      </g>
+      <g
+         id="g2976">
+        <g
+           id="g2972" />
+      </g>
+      <g
+         id="g2982">
+        <g
+           id="g2978" />
+      </g>
+      <path
+         fill="none"
+         stroke="none"
+         id="path2984" />
+      <g
+         id="g2988">
+        <path
+           fill="white"
+           stroke="black"
+           paint-order="fill stroke markers"
+           d=" M 379.4619446245909 14.935001658999996 L 471.56911184700493 14.935001658999996 L 471.56911184700493 45.35617642 L 379.4619446245909 45.35617642 L 379.4619446245909 14.935001658999996 Z"
+           stroke-miterlimit="10"
+           stroke-width="1.8094379040000002"
+           stroke-dasharray=""
+           id="path2986" />
+      </g>
+      <g
+         id="g2992">
+        <text
+           fill="black"
+           stroke="none"
+           font-family="sans-serif"
+           font-size="8pt"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="normal"
+           x="391.7321954110909"
+           y="34.04718952"
+           text-anchor="start"
+           dominant-baseline="alphabetic"
+           xml:space="preserve"
+           id="text2990">API Producer</text>
+      </g>
+      <path
+         fill="none"
+         stroke="none"
+         id="path2994" />
+      <g
+         id="g2998">
+        <path
+           fill="white"
+           stroke="black"
+           paint-order="fill stroke markers"
+           d=" M 482.87809874700497 14.935001658999996 L 606.9352705470558 14.935001658999996 L 606.9352705470558 45.35617642 L 482.87809874700497 45.35617642 L 482.87809874700497 14.935001658999996 Z"
+           stroke-miterlimit="10"
+           stroke-width="1.8094379040000002"
+           stroke-dasharray=""
+           id="path2996" />
+      </g>
+      <g
+         id="g3002">
+        <text
+           fill="black"
+           stroke="none"
+           font-family="sans-serif"
+           font-size="8pt"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="normal"
+           x="495.148349533505"
+           y="34.04718952"
+           text-anchor="start"
+           dominant-baseline="alphabetic"
+           xml:space="preserve"
+           id="text3000">API Producer's STS</text>
+      </g>
+      <path
+         fill="none"
+         stroke="none"
+         id="path3004" />
+      <g
+         id="g3008">
+        <path
+           fill="white"
+           stroke="black"
+           paint-order="fill stroke markers"
+           d=" M 618.2442574470557 14.935001658999996 L 730.1180948965206 14.935001658999996 L 730.1180948965206 45.35617642 L 618.2442574470557 45.35617642 L 618.2442574470557 14.935001658999996 Z"
+           stroke-miterlimit="10"
+           stroke-width="1.8094379040000002"
+           stroke-dasharray=""
+           id="path3006" />
+      </g>
+      <g
+         id="g3012">
+        <text
+           fill="black"
+           stroke="none"
+           font-family="sans-serif"
+           font-size="8pt"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="normal"
+           x="630.5145082335557"
+           y="34.04718952"
+           text-anchor="start"
+           dominant-baseline="alphabetic"
+           xml:space="preserve"
+           id="text3010">Resource Server</text>
+      </g>
+      <path
+         fill="none"
+         stroke="none"
+         id="path3014" />
+      <g
+         id="g3018">
+        <path
+           fill="white"
+           stroke="black"
+           paint-order="fill stroke markers"
+           d=" M 5.654493450000004 493.19205765999993 L 61.09499464153028 493.19205765999993 L 61.09499464153028 523.6132324209999 L 5.654493450000004 523.6132324209999 L 5.654493450000004 493.19205765999993 Z"
+           stroke-miterlimit="10"
+           stroke-width="1.8094379040000002"
+           stroke-dasharray=""
+           id="path3016" />
+      </g>
+      <g
+         id="g3022">
+        <text
+           fill="black"
+           stroke="none"
+           font-family="sans-serif"
+           font-size="8pt"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="normal"
+           x="17.924744236500004"
+           y="512.304245521"
+           text-anchor="start"
+           dominant-baseline="alphabetic"
+           xml:space="preserve"
+           id="text3020">Client</text>
+      </g>
+      <path
+         fill="none"
+         stroke="none"
+         id="path3024" />
+      <g
+         id="g3028">
+        <path
+           fill="white"
+           stroke="black"
+           paint-order="fill stroke markers"
+           d=" M 72.40398154153029 493.19205765999993 L 171.66115028982324 493.19205765999993 L 171.66115028982324 523.6132324209999 L 72.40398154153029 523.6132324209999 L 72.40398154153029 493.19205765999993 Z"
+           stroke-miterlimit="10"
+           stroke-width="1.8094379040000002"
+           stroke-dasharray=""
+           id="path3026" />
+      </g>
+      <g
+         id="g3032">
+        <text
+           fill="black"
+           stroke="none"
+           font-family="sans-serif"
+           font-size="8pt"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="normal"
+           x="84.67423232803029"
+           y="512.304245521"
+           text-anchor="start"
+           dominant-baseline="alphabetic"
+           xml:space="preserve"
+           id="text3030">API Consumer</text>
+      </g>
+      <path
+         fill="none"
+         stroke="none"
+         id="path3034" />
+      <g
+         id="g3038">
+        <path
+           fill="white"
+           stroke="black"
+           paint-order="fill stroke markers"
+           d=" M 182.97013718982328 493.19205765999993 L 314.17730288635846 493.19205765999993 L 314.17730288635846 523.6132324209999 L 182.97013718982328 523.6132324209999 L 182.97013718982328 493.19205765999993 Z"
+           stroke-miterlimit="10"
+           stroke-width="1.8094379040000002"
+           stroke-dasharray=""
+           id="path3036" />
+      </g>
+      <g
+         id="g3042">
+        <text
+           fill="black"
+           stroke="none"
+           font-family="sans-serif"
+           font-size="8pt"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="normal"
+           x="195.2403879763233"
+           y="512.304245521"
+           text-anchor="start"
+           dominant-baseline="alphabetic"
+           xml:space="preserve"
+           id="text3040">API Consumer's STS</text>
+      </g>
+      <g
+         id="g3048">
+        <g
+           id="g3044" />
+      </g>
+      <g
+         id="g3054">
+        <g
+           id="g3050" />
+      </g>
+      <path
+         fill="none"
+         stroke="none"
+         id="path3056" />
+      <g
+         id="g3060">
+        <path
+           fill="white"
+           stroke="black"
+           paint-order="fill stroke markers"
+           d=" M 379.4619446245909 493.19205765999993 L 471.56911184700493 493.19205765999993 L 471.56911184700493 523.6132324209999 L 379.4619446245909 523.6132324209999 L 379.4619446245909 493.19205765999993 Z"
+           stroke-miterlimit="10"
+           stroke-width="1.8094379040000002"
+           stroke-dasharray=""
+           id="path3058" />
+      </g>
+      <g
+         id="g3064">
+        <text
+           fill="black"
+           stroke="none"
+           font-family="sans-serif"
+           font-size="8pt"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="normal"
+           x="391.7321954110909"
+           y="512.304245521"
+           text-anchor="start"
+           dominant-baseline="alphabetic"
+           xml:space="preserve"
+           id="text3062">API Producer</text>
+      </g>
+      <path
+         fill="none"
+         stroke="none"
+         id="path3066" />
+      <g
+         id="g3070">
+        <path
+           fill="white"
+           stroke="black"
+           paint-order="fill stroke markers"
+           d=" M 482.87809874700497 493.19205765999993 L 606.9352705470558 493.19205765999993 L 606.9352705470558 523.6132324209999 L 482.87809874700497 523.6132324209999 L 482.87809874700497 493.19205765999993 Z"
+           stroke-miterlimit="10"
+           stroke-width="1.8094379040000002"
+           stroke-dasharray=""
+           id="path3068" />
+      </g>
+      <g
+         id="g3074">
+        <text
+           fill="black"
+           stroke="none"
+           font-family="sans-serif"
+           font-size="8pt"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="normal"
+           x="495.148349533505"
+           y="512.304245521"
+           text-anchor="start"
+           dominant-baseline="alphabetic"
+           xml:space="preserve"
+           id="text3072">API Producer's STS</text>
+      </g>
+      <path
+         fill="none"
+         stroke="none"
+         id="path3076" />
+      <g
+         id="g3080">
+        <path
+           fill="white"
+           stroke="black"
+           paint-order="fill stroke markers"
+           d=" M 618.2442574470557 493.19205765999993 L 730.1180948965206 493.19205765999993 L 730.1180948965206 523.6132324209999 L 618.2442574470557 523.6132324209999 L 618.2442574470557 493.19205765999993 Z"
+           stroke-miterlimit="10"
+           stroke-width="1.8094379040000002"
+           stroke-dasharray=""
+           id="path3078" />
+      </g>
+      <g
+         id="g3084">
+        <text
+           fill="black"
+           stroke="none"
+           font-family="sans-serif"
+           font-size="8pt"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="normal"
+           x="630.5145082335557"
+           y="512.304245521"
+           text-anchor="start"
+           dominant-baseline="alphabetic"
+           xml:space="preserve"
+           id="text3082">Resource Server</text>
+      </g>
+    </g>
+    <g
+       id="g3260">
+      <path
+         d="M 23.196656,83.97415 H 248.57372 l 10.17809,10.178088 V 109.98482 H 23.196656 V 83.97415 m 225.377064,0 v 10.178088 h 10.17809"
+         stroke-miterlimit="10"
+         id="path3088"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.9424156;stroke-miterlimit:10;stroke-dasharray:none;paint-order:fill stroke markers" />
+      <g
+         id="g3092">
+        <text
+           font-size="8pt"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="normal"
+           x="76.957565"
+           y="99.806732"
+           dominant-baseline="alphabetic"
+           xml:space="preserve"
+           id="text3090"
+           style="font-style:normal;font-weight:normal;font-size:10.66666698px;font-family:sans-serif;dominant-baseline:alphabetic;text-anchor:start;fill:#000000;stroke:none">API Consumer's Domain</text>
+      </g>
+      <path
+         d="m 415.33744,83.783868 h 258.84374 l 10.17808,10.17809 V 109.79453 H 415.33744 V 83.783868 m 258.84374,0 v 10.17809 h 10.17808"
+         stroke-miterlimit="10"
+         id="path3094"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.9424156;stroke-miterlimit:10;stroke-dasharray:none;paint-order:fill stroke markers" />
+      <g
+         id="g3098">
+        <text
+           font-size="8pt"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="normal"
+           x="489.40668"
+           y="99.616455"
+           dominant-baseline="alphabetic"
+           xml:space="preserve"
+           id="text3096"
+           style="font-style:normal;font-weight:normal;font-size:10.66666698px;font-family:sans-serif;dominant-baseline:alphabetic;text-anchor:start;fill:#000000;stroke:none">API Producer's Domain</text>
+      </g>
+      <g
+         id="g3106">
+        <g
+           id="g3102">
+          <rect
+             fill="white"
+             stroke="none"
+             x="70.91564024726515"
+             y="153.92245065999998"
+             width="13.57602946691162"
+             height="14.70168297"
+             id="rect3100" />
+        </g>
+        <text
+           fill="black"
+           stroke="none"
+           font-family="sans-serif"
+           font-size="8pt"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="normal"
+           x="72.61198828226514"
+           y="164.10053886999998"
+           text-anchor="start"
+           dominant-baseline="alphabetic"
+           xml:space="preserve"
+           id="text3104">1.</text>
+      </g>
+      <g
+         id="g3114">
+        <path
+           fill="none"
+           stroke="black"
+           paint-order="fill stroke markers"
+           d=" M 33.37474404576514 168.62413363 L 112.72150003467677 168.62413363"
+           stroke-miterlimit="10"
+           stroke-width="0.9424155750000001"
+           stroke-dasharray=""
+           id="path3108" />
+        <g
+           transform="translate(122.03256591567677,168.62413363) translate(-122.03256591567677,-168.62413363)"
+           id="g3112">
+          <path
+             fill="black"
+             stroke="none"
+             paint-order="stroke fill markers"
+             d=" M 112.60841016567677 163.91205575499998 L 122.03256591567677 168.62413363 L 112.60841016567677 173.336211505 Z"
+             id="path3110" />
+        </g>
+      </g>
+      <g
+         id="g3122">
+        <g
+           id="g3118">
+          <rect
+             fill="white"
+             stroke="none"
+             x="178.515128243428"
+             y="185.58761398"
+             width="13.57602946691162"
+             height="14.70168297"
+             id="rect3116" />
+        </g>
+        <text
+           fill="black"
+           stroke="none"
+           font-family="sans-serif"
+           font-size="8pt"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="normal"
+           x="180.211476278428"
+           y="195.76570218999998"
+           text-anchor="start"
+           dominant-baseline="alphabetic"
+           xml:space="preserve"
+           id="text3120">2.</text>
+      </g>
+      <g
+         id="g3130">
+        <path
+           fill="none"
+           stroke="black"
+           paint-order="fill stroke markers"
+           d=" M 122.03256591567677 200.28929695 L 239.26265415709088 200.28929695"
+           stroke-miterlimit="10"
+           stroke-width="0.9424155750000001"
+           stroke-dasharray=""
+           id="path3124" />
+        <g
+           transform="translate(248.57372003809087,200.28929695) translate(-248.57372003809087,-200.28929695)"
+           id="g3128">
+          <path
+             fill="black"
+             stroke="none"
+             paint-order="stroke fill markers"
+             d=" M 239.14956428809086 195.577219075 L 248.57372003809087 200.28929695 L 239.14956428809086 205.001374825 Z"
+             id="path3126" />
+        </g>
+      </g>
+      <g
+         id="g3138">
+        <g
+           id="g3134">
+          <rect
+             fill="white"
+             stroke="none"
+             x="178.515128243428"
+             y="217.2527773"
+             width="13.57602946691162"
+             height="14.70168297"
+             id="rect3132" />
+        </g>
+        <text
+           fill="black"
+           stroke="none"
+           font-family="sans-serif"
+           font-size="8pt"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="normal"
+           x="180.211476278428"
+           y="227.43086551"
+           text-anchor="start"
+           dominant-baseline="alphabetic"
+           xml:space="preserve"
+           id="text3136">3.</text>
+      </g>
+      <g
+         id="g3146">
+        <path
+           fill="none"
+           stroke="black"
+           paint-order="fill stroke markers"
+           d=" M 248.57372003809087 231.95446027 L 131.34363179667676 231.95446027"
+           stroke-miterlimit="10"
+           stroke-width="0.9424155750000001"
+           stroke-dasharray=""
+           id="path3140" />
+        <g
+           transform="translate(122.03256591567677,231.95446027) translate(-122.03256591567677,-231.95446027)"
+           id="g3144">
+          <path
+             fill="black"
+             stroke="none"
+             paint-order="stroke fill markers"
+             d=" M 131.45672166567678 227.242382395 L 122.03256591567677 231.95446027 L 131.45672166567678 236.666538145 Z"
+             id="path3142" />
+        </g>
+      </g>
+      <g
+         id="g3154">
+        <g
+           id="g3150">
+          <rect
+             fill="white"
+             stroke="none"
+             x="266.98603234228153"
+             y="248.91794062"
+             width="13.57602946691162"
+             height="14.70168297"
+             id="rect3148" />
+        </g>
+        <text
+           fill="black"
+           stroke="none"
+           font-family="sans-serif"
+           font-size="8pt"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="normal"
+           x="268.68238037728156"
+           y="259.09602882999997"
+           text-anchor="start"
+           dominant-baseline="alphabetic"
+           xml:space="preserve"
+           id="text3152">4.</text>
+      </g>
+      <g
+         id="g3162">
+        <path
+           fill="none"
+           stroke="black"
+           paint-order="fill stroke markers"
+           d=" M 122.03256591567677 263.61962359 L 416.20446235479795 263.61962359"
+           stroke-miterlimit="10"
+           stroke-width="0.9424155750000001"
+           stroke-dasharray=""
+           id="path3156" />
+        <g
+           transform="translate(425.51552823579794,263.61962359) translate(-425.51552823579794,-263.61962359)"
+           id="g3160">
+          <path
+             fill="black"
+             stroke="none"
+             paint-order="stroke fill markers"
+             d=" M 416.09137248579793 258.907545715 L 425.51552823579794 263.61962359 L 416.09137248579793 268.331701465 Z"
+             id="path3158" />
+        </g>
+      </g>
+      <g
+         id="g3170">
+        <g
+           id="g3166">
+          <rect
+             fill="white"
+             stroke="none"
+             x="478.4230917079583"
+             y="280.58310394"
+             width="13.57602946691162"
+             height="14.70168297"
+             id="rect3164" />
+        </g>
+        <text
+           fill="black"
+           stroke="none"
+           font-family="sans-serif"
+           font-size="8pt"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="normal"
+           x="480.1194397429583"
+           y="290.76119215"
+           text-anchor="start"
+           dominant-baseline="alphabetic"
+           xml:space="preserve"
+           id="text3168">5.</text>
+      </g>
+      <g
+         id="g3178">
+        <path
+           fill="none"
+           stroke="black"
+           paint-order="fill stroke markers"
+           d=" M 425.51552823579794 295.28478691 L 535.5956187660304 295.28478691"
+           stroke-miterlimit="10"
+           stroke-width="0.9424155750000001"
+           stroke-dasharray=""
+           id="path3172" />
+        <g
+           transform="translate(544.9066846470304,295.28478691) translate(-544.9066846470304,-295.28478691)"
+           id="g3176">
+          <path
+             fill="black"
+             stroke="none"
+             paint-order="stroke fill markers"
+             d=" M 535.4825288970304 290.572709035 L 544.9066846470304 295.28478691 L 535.4825288970304 299.99686478499996 Z"
+             id="path3174" />
+        </g>
+      </g>
+      <g
+         id="g3186">
+        <g
+           id="g3182">
+          <rect
+             fill="white"
+             stroke="none"
+             x="478.4230917079583"
+             y="312.24826726"
+             width="13.57602946691162"
+             height="14.70168297"
+             id="rect3180" />
+        </g>
+        <text
+           fill="black"
+           stroke="none"
+           font-family="sans-serif"
+           font-size="8pt"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="normal"
+           x="480.1194397429583"
+           y="322.42635547"
+           text-anchor="start"
+           dominant-baseline="alphabetic"
+           xml:space="preserve"
+           id="text3184">6.</text>
+      </g>
+      <g
+         id="g3194">
+        <path
+           fill="none"
+           stroke="black"
+           paint-order="fill stroke markers"
+           d=" M 544.9066846470304 326.94995022999996 L 434.82659411679793 326.94995022999996"
+           stroke-miterlimit="10"
+           stroke-width="0.9424155750000001"
+           stroke-dasharray=""
+           id="path3188" />
+        <g
+           transform="translate(425.51552823579794,326.94995022999996) translate(-425.51552823579794,-326.94995022999996)"
+           id="g3192">
+          <path
+             fill="black"
+             stroke="none"
+             paint-order="stroke fill markers"
+             d=" M 434.93968398579796 322.237872355 L 425.51552823579794 326.94995022999996 L 434.93968398579796 331.66202810499993 Z"
+             id="path3190" />
+        </g>
+      </g>
+      <g
+         id="g3202">
+        <g
+           id="g3198">
+          <rect
+             fill="white"
+             stroke="none"
+             x="543.0603374703372"
+             y="343.91343057999995"
+             width="13.57602946691162"
+             height="14.70168297"
+             id="rect3196" />
+        </g>
+        <text
+           fill="black"
+           stroke="none"
+           font-family="sans-serif"
+           font-size="8pt"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="normal"
+           x="544.7566855053373"
+           y="354.09151878999995"
+           text-anchor="start"
+           dominant-baseline="alphabetic"
+           xml:space="preserve"
+           id="text3200">7.</text>
+      </g>
+      <g
+         id="g3210">
+        <path
+           fill="none"
+           stroke="black"
+           paint-order="fill stroke markers"
+           d=" M 425.51552823579794 358.61511354999993 L 664.8701102907881 358.61511354999993"
+           stroke-miterlimit="10"
+           stroke-width="0.9424155750000001"
+           stroke-dasharray=""
+           id="path3204" />
+        <g
+           transform="translate(674.1811761717881,358.61511354999993) translate(-674.1811761717881,-358.61511354999993)"
+           id="g3208">
+          <path
+             fill="black"
+             stroke="none"
+             paint-order="stroke fill markers"
+             d=" M 664.7570204217882 353.90303567499996 L 674.1811761717881 358.61511354999993 L 664.7570204217882 363.3271914249999 Z"
+             id="path3206" />
+        </g>
+      </g>
+      <g
+         id="g3218">
+        <g
+           id="g3214">
+          <rect
+             fill="white"
+             stroke="none"
+             x="543.0603374703372"
+             y="375.57859389999993"
+             width="13.57602946691162"
+             height="14.70168297"
+             id="rect3212" />
+        </g>
+        <text
+           fill="black"
+           stroke="none"
+           font-family="sans-serif"
+           font-size="8pt"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="normal"
+           x="544.7566855053373"
+           y="385.75668210999993"
+           text-anchor="start"
+           dominant-baseline="alphabetic"
+           xml:space="preserve"
+           id="text3216">8.</text>
+      </g>
+      <g
+         id="g3226">
+        <path
+           fill="none"
+           stroke="black"
+           paint-order="fill stroke markers"
+           d=" M 674.1811761717881 390.2802768699999 L 434.82659411679793 390.2802768699999"
+           stroke-miterlimit="10"
+           stroke-width="0.9424155750000001"
+           stroke-dasharray=""
+           id="path3220" />
+        <g
+           transform="translate(425.51552823579794,390.2802768699999) translate(-425.51552823579794,-390.2802768699999)"
+           id="g3224">
+          <path
+             fill="black"
+             stroke="none"
+             paint-order="stroke fill markers"
+             d=" M 434.93968398579796 385.56819899499993 L 425.51552823579794 390.2802768699999 L 434.93968398579796 394.9923547449999 Z"
+             id="path3222" />
+        </g>
+      </g>
+      <g
+         id="g3234">
+        <g
+           id="g3230">
+          <rect
+             fill="white"
+             stroke="none"
+             x="266.98603234228153"
+             y="407.2437572199999"
+             width="13.57602946691162"
+             height="14.70168297"
+             id="rect3228" />
+        </g>
+        <text
+           fill="black"
+           stroke="none"
+           font-family="sans-serif"
+           font-size="8pt"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="normal"
+           x="268.68238037728156"
+           y="417.4218454299999"
+           text-anchor="start"
+           dominant-baseline="alphabetic"
+           xml:space="preserve"
+           id="text3232">9.</text>
+      </g>
+      <g
+         id="g3242">
+        <path
+           fill="none"
+           stroke="black"
+           paint-order="fill stroke markers"
+           d=" M 425.51552823579794 421.9454401899999 L 131.34363179667676 421.9454401899999"
+           stroke-miterlimit="10"
+           stroke-width="0.9424155750000001"
+           stroke-dasharray=""
+           id="path3236" />
+        <g
+           transform="translate(122.03256591567677,421.9454401899999) translate(-122.03256591567677,-421.9454401899999)"
+           id="g3240">
+          <path
+             fill="black"
+             stroke="none"
+             paint-order="stroke fill markers"
+             d=" M 131.45672166567678 417.2333623149999 L 122.03256591567677 421.9454401899999 L 131.45672166567678 426.65751806499986 Z"
+             id="path3238" />
+        </g>
+      </g>
+      <g
+         id="g3250">
+        <g
+           id="g3246">
+          <rect
+             fill="white"
+             stroke="none"
+             x="67.52397335807447"
+             y="438.9089205399999"
+             width="20.35936324529297"
+             height="14.70168297"
+             id="rect3244" />
+        </g>
+        <text
+           fill="black"
+           stroke="none"
+           font-family="sans-serif"
+           font-size="8pt"
+           font-style="normal"
+           font-weight="normal"
+           text-decoration="normal"
+           x="69.22032139307447"
+           y="449.0870087499999"
+           text-anchor="start"
+           dominant-baseline="alphabetic"
+           xml:space="preserve"
+           id="text3248">10.</text>
+      </g>
+      <g
+         id="g3258">
+        <path
+           fill="none"
+           stroke="black"
+           paint-order="fill stroke markers"
+           d=" M 122.03256591567677 453.61060350999986 L 42.685809926765145 453.61060350999986"
+           stroke-miterlimit="10"
+           stroke-width="0.9424155750000001"
+           stroke-dasharray=""
+           id="path3252" />
+        <g
+           transform="translate(33.37474404576514,453.61060350999986) translate(-33.37474404576514,-453.61060350999986)"
+           id="g3256">
+          <path
+             fill="black"
+             stroke="none"
+             paint-order="stroke fill markers"
+             d=" M 42.79889979576514 448.8985256349999 L 33.37474404576514 453.61060350999986 L 42.79889979576514 458.32268138499984 Z"
+             id="path3254" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g3262" />
+    <g
+       id="g3264" />
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+participant "Client" as Client
+participant "API Consumer" as Consumer
+participant "API Consumer's STS" as Consumer_STS
+
+materialdesignicons f590 Internet
+
+participant "API Producer" as Producer
+participant "API Producer's STS" as Producer_STS
+participant "Resource Server" as RS
+
+bottomparticipants
+
+note over Client,Consumer_STS:API Consumer's Domain
+note over Producer,RS:API Producer's Domain
+Client->Consumer:1.
+Consumer->Consumer_STS:2.
+Consumer<-Consumer_STS:3.
+Consumer->Producer:4.
+Producer->Producer_STS:5.
+Producer<-Producer_STS:6.
+Producer->RS:7.
+Producer<-RS:8.
+Consumer<-Producer:9.
+Client<-Consumer:10.
