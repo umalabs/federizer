@@ -15,4 +15,4 @@ Propagator, an API-to-API security framework, is a prototype implementation of t
 ## Repositories
 
 * API-to-API Security Token Service [https://github.com/umalabs/api-to-api-sts](https://github.com/umalabs/api-to-api-sts)  
-* API-to-API Security Token Service Interceptor [https://github.com/umalabs/api-to-api-sts-interceptor](https://github.com/umalabs/api-to-api-sts-interceptor)
+* API-to-API Gateway [https://github.com/umalabs/api-to-api-gateway](https://github.com/umalabs/api-to-api-gateway)
