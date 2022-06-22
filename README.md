@@ -8,6 +8,18 @@ Propagator, an API-to-API security framework, is a prototype implementation of t
 2. TLS provides confidentiality and integrity of data in transit.
 3. Both the API consumer and the API producer can push and pull data.
 
+## Capabilities Comparison
+
+Email system MTA-to-MTA vs. API-to-API Propagator security framework.
+
+|Capability| MTA-to-MTA<br>(SMTP-to-SMTP)   | API-to-API<br>(HTTP-to-HTTP) |
+|---| -------- | ----------- |
+|Main functionality| Send a message | Call an API |
+|Routing| Via email addresses | Via email addresses |
+|Multiple recipients| Yes | Yes |
+|Data manipulation| N/A | CRUD operations |
+|No sign-up at recipients| Yes | Yes |
+
 ## Sequence Diagram
 
 ![Diagram](./images/propagator_flow.svg)
