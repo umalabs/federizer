@@ -6,18 +6,18 @@ Propagator, a web API-to-API security framework, is a prototype implementation o
 
 Email MTA-to-MTA vs. API-to-API Propagator comparison.
 
-| Capabilities & Features      | MTA-to-MTA<br>(SMTP-to-SMTP) | API-to-API<br>(HTTP-to-HTTP) |
-| ---------------------------- | ---------------------------- | ---------------------------- |
-| Main capability              | Send a message               | Call an API                  |
-| Information exchange mode    | Store-and-forward            | Real-time                    |
-| Routing                      | Via email addresses          | Via email addresses          |
-| Multiple recipients          | Yes                          | Yes                          |
-| Data flow                    | push                         | push/pull                    |
-| Large binary data transfer   | No                           | Yes                          |
-| Data manipulation            | N/A                          | CRUD operations              |
-| No sign-up at recipients     | Yes                          | Yes                          |
-| Client authentication        | DANE                         | JWT/mTLS                     |
-| User authentication          | N/A                          | JWT/mTLS                     |
+| Capabilities & Features      | MTA-to-MTA<br>(SMTP-to-SMTP) | API-to-API<br>(HTTP-to-HTTP)     |
+| ---------------------------- | ---------------------------- | -------------------------------- |
+| Main capability              | Send a message               | Call an API                      |
+| Information exchange mode    | Store-and-forward            | Real-time                        |
+| Routing                      | Via email addresses          | Via email addresses              |
+| Multiple recipients          | Yes                          | Yes                              |
+| Data flow                    | push                         | push/pull                        |
+| Large binary data transfer   | No                           | Yes                              |
+| Data manipulation            | N/A                          | CRUD operations                  |
+| No sign-up at recipients     | Yes                          | Yes                              |
+| Client authentication        | DANE                         | JWT/mTLS                         |
+| User authentication          | N/A                          | Via client (on behalf of a user) |
 
 
 ## Sequence Diagram
