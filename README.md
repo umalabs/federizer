@@ -10,7 +10,7 @@ Email MTA-to-MTA vs. API-to-API Propagator comparison.
 | ---------------------------- | ---------------------------- | -------------------------------- |
 | Main capability              | Send a message               | Call an API                      |
 | Information exchange mode    | Store-and-forward            | Real-time                        |
-| Routing                      | Via email addresses          | Via email addresses              |
+| Routing                      | Via email addresses          | Via WebFinger                    |
 | Multiple recipients          | Yes                          | Yes                              |
 | Data flow                    | push                         | push/pull                        |
 | Large binary data transfer   | No                           | Yes                              |
