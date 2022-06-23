@@ -2,6 +2,10 @@
 
 Propagator, a web API-to-API security framework, is a prototype implementation of the [Identity Propagation and Assertions](https://github.com/umalabs/identity-propagation-and-assertions) architecture. Propagator uses this architecture to convey the user's security context alongside messages between API consumers and API producers. The API-to-API communication resembles how the MTA-to-MTA SMTP transmission works. You can send any message, e.g., an order, from the sender's API to an arbitrary recipient's API; vice-versa, you can receive a message from any sender's API.
 
+## Motivation
+
+Create a system that will form the backbone of API-to-API interactions, just as email forms the backbone of user-to-user interaction.
+
 ## MTA-to-MTA vs. API-to-API Comparison
 
 Email MTA-to-MTA vs. API-to-API Propagator comparison.
