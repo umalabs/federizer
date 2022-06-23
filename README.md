@@ -4,7 +4,7 @@ Propagator, a web API-to-API security framework, is a prototype implementation o
 
 ## Motivation
 
-Create a system that will form the backbone of API-to-API interactions, just as email forms the backbone of user-to-user interaction.
+To create a system that will form the backbone of API-to-API interactions, just as email forms the backbone of user-to-user interaction.
 
 ## MTA-to-MTA vs. API-to-API Comparison
 
