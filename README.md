@@ -28,6 +28,10 @@ Email MTA-to-MTA vs. API-to-API Federizer comparison.
 
 ![Diagram](./images/federizer_flow.svg)
 
+## Demo
+
+As a demo, we've created an email-like system where the first-class citizen is not a message but a file.
+
 ## Repositories
 
 * API-to-API Security Token Service [https://github.com/umalabs/api-to-api-sts](https://github.com/umalabs/api-to-api-sts)  
