@@ -1,17 +1,17 @@
 participant "Client" as Client
-participant "Egress API Gateway" as Egress
-participant "Egress STS" as Egress_STS
+participant "MTA" as Egress
+participant "STS" as Egress_STS
 
 materialdesignicons f590 Internet
 
-participant "Ingress API Gateway" as Ingress
-participant "Ingress STS" as Ingress_STS
+participant "MTA" as Ingress
+participant "STS" as Ingress_STS
 participant "Resource Server" as RS
 
 bottomparticipants
 
-note over Client,Egress_STS:API Consumer's Domain
-note over Ingress,RS:API Producer's Domain
+note over Client,Egress_STS:Sender's Domain
+note over Ingress,RS:Recipient's Domain
 Client->Egress:1.
 Egress->Egress_STS:2.
 Egress<-Egress_STS:3.
